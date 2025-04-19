@@ -1,0 +1,23 @@
+FROM python:3.10-slim
+
+# Устанавливаем рабочую директорию в контейнере
+WORKDIR /app
+
+# Копируем requirements.txt и устанавливаем зависимости
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Копируем код бота в контейнер
+COPY main.py .
+
+# Создаем директорию для хранения данных сессий и истории активности
+RUN mkdir -p /app/data
+
+# Указываем что том с данными находится здесь
+VOLUME ["/app/data"]
+
+# Переходим в директорию с данными
+WORKDIR /app/data
+
+# Запускаем бота
+CMD ["python", "/app/main.py"]
