@@ -1,0 +1,40 @@
+2025-04-11 22:18:53,213 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:18:55,480 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:19:36,452 - __main__ - INFO - Клиент Telethon запущен
+2025-04-11 22:19:36,453 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:19:38,113 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:19:38,770 - __main__ - INFO - Бот запущен
+2025-04-11 22:21:10,246 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:21:10,329 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:21:11,141 - __main__ - INFO - Клиент Telethon запущен
+2025-04-11 22:21:11,141 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:21:11,208 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:21:11,701 - __main__ - INFO - Бот запущен
+2025-04-11 22:23:29,497 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:23:29,583 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:23:30,324 - __main__ - INFO - Клиент Telethon запущен
+2025-04-11 22:23:30,325 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:23:30,391 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:23:30,954 - __main__ - INFO - Бот запущен
+2025-04-11 22:24:19,229 - __main__ - INFO - Начат мониторинг пользователя ScientisRock (ID: 1484402944)
+2025-04-11 22:24:19,314 - __main__ - INFO - Пользователь ScientisRock (ID: 1484402944) онлайн в 2025-04-11 22:24:19.314211
+2025-04-11 22:27:07,558 - telethon.client.updates - INFO - Got difference for account updates
+2025-04-11 22:27:07,815 - telethon.client.updates - INFO - Got difference for channel 1334284431 updates
+2025-04-11 22:27:07,988 - telethon.client.updates - INFO - Got difference for channel 2129280278 updates
+2025-04-11 22:27:23,246 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:27:23,322 - telethon.client.updates - INFO - Got difference for channel 1334284431 updates
+2025-04-11 22:27:44,115 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:27:48,595 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:27:58,674 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:28:11,283 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:28:43,418 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:28:49,919 - telethon.client.updates - INFO - Got difference for channel 1491081717 updates
+2025-04-11 22:30:51,870 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:30:51,958 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:30:52,929 - __main__ - INFO - Клиент Telethon запущен
+2025-04-11 22:30:52,929 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-04-11 22:30:53,009 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-04-11 22:30:53,982 - __main__ - INFO - Бот запущен
+2025-04-11 22:31:16,710 - __main__ - INFO - Начат мониторинг пользователя ScientisRock (ID: 1484402944)
+2025-04-11 22:31:16,808 - __main__ - INFO - Пользователь ScientisRock (ID: 1484402944) онлайн в 2025-04-11 22:31:16.808015
+2025-04-11 22:31:22,871 - __main__ - ERROR - Ошибка при генерации отчета: type object 'datetime.datetime' has no attribute 'timedelta'
