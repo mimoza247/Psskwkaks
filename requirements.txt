@@ -1,6 +1,5 @@
-python-telegram-bot==20.4
-selenium==4.11.2
-python-whois==0.8.0
-Pillow==10.0.0
-python-dotenv==1.0.0
-requests==2.31.0
+telethon==1.33.0
+aiofiles==23.2.1
+cryptg==0.4.0  # Для оптимизации шифрования в Telethon
+python-dateutil==2.8.2  # Для работы с датами
+pytz==2024.1  # Для обработки временных зон
